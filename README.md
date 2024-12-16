@@ -1,5 +1,5 @@
 # SBSR-AMC-Nicholas_Nicomedes
-Este repositório contém os dados shapefile utilizados no estudo intitulado "Modelo Integrado de Análise de Risco de Inundação no Município de Sorocaba: Abordagem Multicritério", que será apresentado no XXI Simpósio Brasileiro de Sensoriamento Remoto (SBSR) 2025.
+Este repositório contém as camadas raster (.tif) utilizadas no estudo intitulado "Modelo Integrado de Análise de Risco de Inundação no Município de Sorocaba: Abordagem Multicritério", que será apresentado no XXI Simpósio Brasileiro de Sensoriamento Remoto (SBSR) 2025.
 
 Resumo do Estudo
 O estudo aplicou uma análise multicritério para mapear áreas de risco de inundação no município de Sorocaba. Foram integradas variáveis geomorfológicas e socioeconômicas, incluindo:
